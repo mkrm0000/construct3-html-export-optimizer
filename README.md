@@ -16,6 +16,12 @@ A Flask web application to optimize Construct 3 HTML export ZIP files by adjusti
 
 ---
 
+### Prerequisites
+
+- Python 3.7+
+- [ffmpeg](https://ffmpeg.org/) installed and available in your system PATH
+
+
 ## Installation
 
 1. Clone the repository:
