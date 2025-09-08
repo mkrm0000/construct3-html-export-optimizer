@@ -1,4 +1,4 @@
-# construct3-html-export-optimizer
+# Construct 3 HTML export optimizer
 
 A Flask web application to optimize Construct 3 HTML export ZIP files by adjusting compression levels. The app features a modern dark-themed interface, drag-and-drop upload, real-time progress updates, and provides a downloadable optimized ZIP file upon completion.
 
