@@ -21,11 +21,3 @@ A Flask web application to optimize Construct 3 HTML export ZIP files by adjusti
 - Python 3.7+
 - [ffmpeg](https://ffmpeg.org/) installed and available in your system PATH
 
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/construct3-html-export-optimizer.git
-   cd construct3-html-export-optimizer
